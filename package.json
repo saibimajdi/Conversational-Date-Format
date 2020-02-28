@@ -1,0 +1,20 @@
+{
+  "name": "conversationaldateformat",
+  "version": "1.0.0",
+  "description": "Useful methods to get user friendly date format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "friendly",
+    "conversational",
+    "js",
+    "npm",
+    "node"
+  ],
+  "author": "Majdi Saibi",
+  "license": "ISC"
+}
